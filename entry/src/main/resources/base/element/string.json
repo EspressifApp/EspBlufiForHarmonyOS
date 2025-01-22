@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "EspBluFi entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "EspBluFi Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "EspBluFi"
+    },
+    {
+      "name": "permission_bluetooth",
+      "value": "需要连接扫描、连接 BLE，并通过 BLE 进行数据通信"
+    },
+    {
+      "name": "permission_wifi",
+      "value": "需要扫描 Wi-Fi 并获取 Wi-Fi 信息，用于设备配网"
+    },
+    {
+      "name": "string_Enter_user_defined_data",
+      "value": "请输入自定义数据"
+    },
+    {
+      "name": "scan",
+      "value": "扫描"
+    },
+    {
+      "name": "scanning",
+      "value": "停止扫描"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "deviceID",
+      "value": "设备ID "
+    },
+    {
+      "name": "deviceRSSI",
+      "value": "设备RSSI "
+    },
+    {
+      "name": "ok",
+      "value": "确定"
+    },
+    {
+      "name": "config",
+      "value": "配置"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "connect",
+      "value": "连接"
+    },
+    {
+      "name": "disconnect",
+      "value": "断开"
+    },
+    {
+      "name": "encryption",
+      "value": "加密"
+    },
+    {
+      "name": "version",
+      "value": "版本"
+    },
+    {
+      "name": "wifiNetwork",
+      "value": "配网"
+    },
+    {
+      "name": "status",
+      "value": "状态"
+    },
+    {
+      "name": "widgets",
+      "value": "自定义"
+    },
+    {
+      "name": "Select_Device_Mode",
+      "value": "OpMode"
+    },
+    {
+      "name": "SoftAP_encryption",
+      "value": "加密"
+    },
+    {
+      "name": "SoftAP_channel",
+      "value": "信道"
+    },
+    {
+      "name": "SoftAP_max_connect",
+      "value": "最大连接"
+    },
+    {
+      "name": "SoftAP_ssid",
+      "value": "SoftAP SSID"
+    },
+    {
+      "name": "SoftAP_password",
+      "value": "SoftAP 密码"
+    },
+    {
+      "name": "select_wifi",
+      "value": "Wi-Fi SSID"
+    },
+    {
+      "name": "wifi_password",
+      "value": "Wi-Fi 密码"
+    },
+    {
+      "name": "Please_enter_the_name_of_the_Bluetooth_device",
+      "value": "请输入蓝牙设备名称"
+    },
+    {
+      "name": "BluFi_Device_Filtering",
+      "value": "BluFi 设备过滤"
+    },
+    {
+      "name": "APP_version",
+      "value": "APP 版本"
+    },
+    {
+      "name": "API_version",
+      "value": "Blufi 库版本"
+    },
+    {
+      "name": "check_for_updates",
+      "value": "检查更新"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.espressif.blufi",
+    "vendor": "Espressif Systems.",
+    "versionCode": 1000002,
+    "versionName": "1.6.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}

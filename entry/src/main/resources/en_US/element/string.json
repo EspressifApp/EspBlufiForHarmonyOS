@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "EspBluFi entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "EspBluFi Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "EspBluFi"
+    }
+  ]
+}
